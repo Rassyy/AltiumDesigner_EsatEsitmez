@@ -74,3 +74,4 @@ Orderlist including shipping
 https://www.elektormagazine.nl/news/review-nixie-bargraph-thermometer-bouwkit/18195
 https://www.instructables.com/Analog-IN-13-bargraph-Nixie-tube-thermometer/
 
+Made By Esat Esitmez
